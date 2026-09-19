@@ -1,5 +1,5 @@
 
-# eShop
+# eShop 2026
 Angular 10, node express Ecommerce Application with NGRX state management
 
 ## Get started
